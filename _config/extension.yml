@@ -1,0 +1,11 @@
+SilverStripe\Security\Member:
+  extensions:
+    - Axllent\LoginReports\Extensions\MemberExtension
+
+SilverStripe\Security\LoginAttempt:
+  extensions:
+    - Axllent\LoginReports\Extensions\LoginAttemptExtension
+
+SilverStripe\Security\MemberAuthenticator\MemberAuthenticator:
+  extensions:
+    - Axllent\LoginReports\Extensions\MemberAuthenticatorExtension

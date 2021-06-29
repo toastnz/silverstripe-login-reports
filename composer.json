@@ -1,0 +1,29 @@
+{
+    "name": "axllent/silverstripe-login-reports",
+    "description": "Member login reports for SilverStripe",
+    "type": "silverstripe-vendormodule",
+    "homepage": "https://github.com/axllent/silverstripe-login-reports",
+    "keywords": [
+        "silverstripe",
+        "analytics",
+        "tracking"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ralph Slooten",
+            "homepage": "http://www.axllent.org/"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/axllent/silverstripe-login-reports/issues"
+    },
+    "require": {
+        "silverstripe/framework": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Axllent\\LoginReports\\": "src/"
+        }
+    }
+}
