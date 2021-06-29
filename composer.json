@@ -1,6 +1,6 @@
 {
     "name": "axllent/silverstripe-login-reports",
-    "description": "Member login reports for SilverStripe",
+    "description": "Member login reports for Silverstripe",
     "type": "silverstripe-vendormodule",
     "homepage": "https://github.com/axllent/silverstripe-login-reports",
     "keywords": [
